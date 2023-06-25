@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CalculusCoder
 - 👀 I’m interested in Software Development, Machine Learning, and Embedded Systems Engineering.
-- 🌱 I’m currently learning Back-End Software Development and Electrical Engineering.
-- 💞️ I’m looking to collaborate on several projects like Full Stack Web Applications and C++ Robotics Projects. 
+- 🌱 I’m currently learning Back-End Software Development.
+- 💞️ I’m looking to collaborate on several projects like Full Stack Web Applications. 
 - 📫 You can reach me at jaredgomez0812@gmail.com
 
 <!---
