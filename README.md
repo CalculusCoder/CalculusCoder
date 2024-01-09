@@ -30,5 +30,6 @@ I'm a software engineer intern, tech youtuber, and startup founder based out of 
 
 ### Badges
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calculuscoder&title_color=8a2be2&text_color=ffffff&icon_color=8a2be2&bg_color=1c1917&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=calculuscoder&title_color=d0aaf3&text_color=ffffff&icon_color=a155e7&bg_color=1c1917&hide_border=true)
+
 
