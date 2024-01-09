@@ -1,10 +1,21 @@
 Hi 👋 My name is Jared
-======================Software Engineer-----------------I'm a software engineer intern, tech youtuber, and startup founder based out of the US. I love tech and computer science, and am always looking to make impactful contributions to the tech industry.* 🌍  I'm based in North Carolina, USA* ✉️  You can contact me at [calculuscoder@gmail.com](mailto:calculuscoder@gmail.com)* 🚀  I'm currently working on [FreeMind Recovery](http://www.freemindrecovery.com/)* 🧠  I'm learning System Design and C# ASP.NET Core* ⚡  Check me out on Youtube! @CalculusCoder
+======================
 
-<a href="https://www.github.com/CalculusCoder" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/CalculusCoder?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+Software Engineer
+-----------------
 
-### Skills
+I'm a software engineer intern, tech youtuber, and startup founder based out of the US. I love tech and computer science, and am always looking to make impactful contributions to the tech industry.
+
+*   🌍  I'm based in North Carolina, USA
+*   ✉️  You can contact me at [calculuscoder@gmail.com](mailto:calculuscoder@gmail.com)
+*   🚀  I'm currently working on [FreeMind Recovery](http://www.freemindrecovery.com/)
+*   🧠  I'm learning System Design and C# ASP.NET Core
+*   ⚡  Check me out on Youtube! @CalculusCoder
+
+<a href="https://www.github.com/CalculusCoder" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/CalculusCoder?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
+### Skills 
+
 
 
 <p align="left">
@@ -14,13 +25,3 @@ src="https://img.shields.io/github/followers/CalculusCoder?logo=github&style=for
 ### Badges
 
 <a href="https://github.com/CalculusCoder" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CalculusCoder&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<!---
-- 👋 Hi, I’m @CalculusCoder
-- 👀 I’m interested in Software Development, Machine Learning, and Robotics Engineering.
-- 🌱 I’m currently learning Back-End Software Development.
-- 💞️ I’m looking to collaborate on several projects like Full Stack Web Applications. 
-- 📫 You can reach me at jaredgomez0812@gmail.com
-CalculusCoder/CalculusCoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
