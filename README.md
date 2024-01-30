@@ -9,7 +9,7 @@ I'm a software engineer intern, tech youtuber, and startup founder based out of 
 *   🌍  I'm based in North Carolina, USA
 *   ✉️  You can contact me at [calculuscoder@gmail.com](mailto:calculuscoder@gmail.com)
 *   🚀  I'm currently working on [FreeMind Recovery](http://www.freemindrecovery.com/)
-*   🧠  I'm learning Machine Learning/ AI Fundamentals and NumPy
+*   🧠  I'm learning Machine Learning and AI
 *   ⚡  Check me out on Youtube! @CalculusCoder
 
 <a href="https://www.github.com/CalculusCoder" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/CalculusCoder?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
