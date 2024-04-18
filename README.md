@@ -4,7 +4,7 @@ Hi 👋 My name is Jared
 Software Engineer
 -----------------
 
-I'm a software engineer intern, tech youtuber, and startup founder based out of the US. I am passionate about tech, mathematics, and computer science, and am always looking to make impactful contributions to the tech industry.
+I'm a software engineer and startup founder based out of the US. I am passionate about tech, mathematics, and computer science, and am always looking to make impactful contributions to the tech industry.
 
 *   🌍  I'm based in North Carolina, USA
 *   ✉️  You can contact me at [calculuscoder@gmail.com](mailto:calculuscoder@gmail.com)
