@@ -4,12 +4,12 @@ Hi 👋 My name is Jared
 Software Engineer
 -----------------
 
-I'm a software engineer and startup founder based out of the US. I am passionate about tech, mathematics, and computer science, and am always looking to make impactful contributions to the tech industry.
+I'm a software engineer based out of the US. I am passionate about tech, mathematics, and computer science, and am always looking to make impactful contributions to the tech industry.
 
 *   🌍  I'm based in North Carolina, USA
 *   ✉️  You can contact me at [calculuscoder@gmail.com](mailto:calculuscoder@gmail.com)
 *   🚀  I'm currently working on [FreeMind Recovery](http://www.freemindrecovery.com/)
-*   🧠  I'm learning System Design  
+*   🧠  I'm learning System Design and Algorithms 
 *   ⚡  Check me out on Youtube! @CalculusCoder
 
 <a href="https://www.github.com/CalculusCoder" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/CalculusCoder?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
