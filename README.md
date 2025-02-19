@@ -5,7 +5,7 @@ I'm a software developer based in **Charlotte, NC**, currently studying Computer
 
 **Some projects I've been working on:**
 
-### [Jared Systems](https://your-link-here.com)  
+* [Jared Systems](https://your-link-here.com)  
 A **Direct Store Delivery (DSD) and accounting B2B solution** for companies. While working as a business partner at **La Hacienda**, we relied on similar software, but it was bloated and expensive. So, I built my own solution and am now selling it as a **faster, more efficient alternative**.
 
 ### [Galaxity Learning](https://your-link-here.com)  
