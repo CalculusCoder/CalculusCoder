@@ -1,4 +1,4 @@
-### Hey, I'm Jared
+### Hey, I'm Jared!
 
 I'm a programmer based in Charlotte, NC, currently studying Computer and Information Technology at FIU. 
 
