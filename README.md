@@ -1,6 +1,6 @@
 ### 👋 Hey, I'm Jared!
 
-I'm a software developer based in **Charlotte, NC**, currently studying Computer and Information Technology at **FIU**. I love working with systems programming, database development, and backend infrastructure. But most of my time is spent working with web, mobile, and database development.
+I'm a software developer based in Charlotte, NC, currently studying Computer and Information Technology at FIU. I love working with systems programming, database development, and backend infrastructure. But most of my time is spent working with web, mobile, and database development.
 
 
 **Some projects I've been working on:**
