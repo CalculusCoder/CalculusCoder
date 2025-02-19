@@ -2,7 +2,7 @@
 
 I'm a software developer based in Charlotte, NC, currently studying Computer and Information Technology at FIU. 
 
-I love working with systems programming and database development. But most of my time is spent working with web and mobile development.
+I love working with systems programming and database development, but most of my time is spent working with web and mobile development.
 
 
 **Some projects I've been working on:**
