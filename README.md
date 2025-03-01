@@ -5,7 +5,7 @@ I'm a programmer based in Charlotte, NC. I love working with systems programming
 
 **Some projects I've been working on:**
 
-* **[Jared Systems](https://www.jaredsystemstech.com/)**: A Direct Store Delivery (DSD) and accounting B2B solution for companies. While working as a business partner at a dairy company, we relied on similar software, but it was bloated and expensive. So, I built my own solution.
+* **[Marmot Systems](https://www.marmotsystems.com/)**: A Direct Store Delivery (DSD) and accounting B2B solution for companies. While working as a business partner at a dairy company, we relied on similar software, but it was bloated and expensive. So, I built my own solution.
 
 * **[Galaxity Learning](https://www.galaxitylearning.com/signin)**: An automated AI math tutoring app integrated into school LMS systems. While tutoring math to children during college, I wanted to create a gamified learning app for them that integrates with teacher tools like Schoology and Google Classroom. Currently 90% complete and on pause as i'm mostly working on Jared Systems.
 
