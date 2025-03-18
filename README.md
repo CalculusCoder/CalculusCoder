@@ -1,6 +1,6 @@
 ### 👋 Hey, I'm Jared!
 
-I'm a programmer based in Charlotte, NC. I love working with systems programming, but most of my time is spent working with web and mobile development.
+I'm a programmer based in Charlotte, NC. I love working with systems programming, but most of my time is spent working with web and mobile development
 
 
 **Some projects I've been working on:**
